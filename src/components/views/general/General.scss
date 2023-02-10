@@ -1,0 +1,21 @@
+.general {
+  .general-title {
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: var(--light-dark);
+  }
+}
+
+body {
+  .MuiTooltip-tooltip {
+    background-color: var(--light-dark);
+    color: var(--dark-light);
+    font-weight: bold;
+    font-size: 12px;
+  }
+  .MuiTooltip-arrow {
+    color: var(--light-dark);
+  }
+}
