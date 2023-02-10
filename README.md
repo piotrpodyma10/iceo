@@ -1,6 +1,6 @@
 👋 Hello!
 
-💻 Application:
+💻 Application: https://iceo.netlify.app
 
 👨‍💻 How to run the application?
 
